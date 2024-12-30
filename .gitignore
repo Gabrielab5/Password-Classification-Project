@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+env/
+venv/
+.venv/
+
+.idea/
+.vscode/
+
+.DS_Store  # macOS specific files
+Thumbs.db  # Windows specific files
+
+build/
+dist/
+*.egg-info/
+
+node_modules/  # For Node.js projects
+
+.env
